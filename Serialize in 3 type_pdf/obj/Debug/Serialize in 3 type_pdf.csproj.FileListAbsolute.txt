@@ -1,0 +1,37 @@
+C:\Users\Komp\source\repos\Serialize in 3 type_pdf\Serialize in 3 type_pdf\bin\Debug\Serialize in 3 type_pdf.exe.config
+C:\Users\Komp\source\repos\Serialize in 3 type_pdf\Serialize in 3 type_pdf\bin\Debug\Serialize in 3 type_pdf.exe
+C:\Users\Komp\source\repos\Serialize in 3 type_pdf\Serialize in 3 type_pdf\bin\Debug\Serialize in 3 type_pdf.pdb
+C:\Users\Komp\source\repos\Serialize in 3 type_pdf\Serialize in 3 type_pdf\obj\Debug\Serialize in 3 type_pdf.csproj.AssemblyReference.cache
+C:\Users\Komp\source\repos\Serialize in 3 type_pdf\Serialize in 3 type_pdf\obj\Debug\MainWindow.g.cs
+C:\Users\Komp\source\repos\Serialize in 3 type_pdf\Serialize in 3 type_pdf\obj\Debug\App.g.cs
+C:\Users\Komp\source\repos\Serialize in 3 type_pdf\Serialize in 3 type_pdf\obj\Debug\Serialize in 3 type_pdf_MarkupCompile.cache
+C:\Users\Komp\source\repos\Serialize in 3 type_pdf\Serialize in 3 type_pdf\obj\Debug\Serialize in 3 type_pdf_MarkupCompile.lref
+C:\Users\Komp\source\repos\Serialize in 3 type_pdf\Serialize in 3 type_pdf\obj\Debug\MainWindow.baml
+C:\Users\Komp\source\repos\Serialize in 3 type_pdf\Serialize in 3 type_pdf\obj\Debug\Serialize in 3 type_pdf.g.resources
+C:\Users\Komp\source\repos\Serialize in 3 type_pdf\Serialize in 3 type_pdf\obj\Debug\Serialize_in_3_type_pdf.Properties.Resources.resources
+C:\Users\Komp\source\repos\Serialize in 3 type_pdf\Serialize in 3 type_pdf\obj\Debug\Serialize in 3 type_pdf.csproj.GenerateResource.cache
+C:\Users\Komp\source\repos\Serialize in 3 type_pdf\Serialize in 3 type_pdf\obj\Debug\Serialize in 3 type_pdf.csproj.CoreCompileInputs.cache
+C:\Users\Komp\source\repos\Serialize in 3 type_pdf\Serialize in 3 type_pdf\obj\Debug\Serialize in 3 type_pdf.exe
+C:\Users\Komp\source\repos\Serialize in 3 type_pdf\Serialize in 3 type_pdf\obj\Debug\Serialize in 3 type_pdf.pdb
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\bin\Debug\Serialize in 3 type_pdf.exe.config
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\bin\Debug\Serialize in 3 type_pdf.exe
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\bin\Debug\Serialize in 3 type_pdf.pdb
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\bin\Debug\MaterialDesignColors.dll
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\obj\Debug\Serialize in 3 type_pdf.csproj.AssemblyReference.cache
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\obj\Debug\MainWindow.g.cs
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\obj\Debug\App.g.cs
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\obj\Debug\Serialize in 3 type_pdf_MarkupCompile.cache
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\obj\Debug\Serialize in 3 type_pdf_MarkupCompile.lref
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\obj\Debug\App.baml
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\obj\Debug\MainWindow.baml
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\obj\Debug\Serialize in 3 type_pdf.g.resources
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\obj\Debug\Serialize_in_3_type_pdf.Properties.Resources.resources
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\obj\Debug\Serialize in 3 type_pdf.csproj.GenerateResource.cache
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\obj\Debug\Serialize in 3 type_pdf.csproj.CoreCompileInputs.cache
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\obj\Debug\Serialize in 3 type_pdf.csproj.CopyComplete
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\obj\Debug\Serialize in 3 type_pdf.exe
+C:\Users\Komp\source\repos\Serialize in 3 type_wpf\Serialize in 3 type_pdf\obj\Debug\Serialize in 3 type_pdf.pdb

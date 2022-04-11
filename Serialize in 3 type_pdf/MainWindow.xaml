@@ -1,0 +1,51 @@
+﻿<Window x:Class="Serialize_in_3_type_pdf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Serialize_in_3_type_pdf"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Serialize" Height="518.375" Width="916.078" WindowStyle="ThreeDBorderWindow" Cursor="Hand" IsEnabled="True">
+    <Grid Background="White">
+        <TextBlock x:Name="File_Puth" HorizontalAlignment="Left" Margin="38,22,0,0" TextWrapping="Wrap" Text="Выбран файл: " FontSize="14" TextAlignment="Left" FontWeight="Light" VerticalAlignment="Top" Height="40" Width="500"/>
+        <Button ToolTip="открывает окно выбора файлов" x:Name="Select_File"  Content="Выбрать файл"  HorizontalAlignment="Left"  Height="60"  Margin="191,96,0,0" VerticalAlignment="Top" Width="462" Opacity="1" Style="{DynamicResource MaterialDesignFlatDarkBgButton}" VerticalContentAlignment="Center" FontFamily="Segoe UI Historic" FontStyle="Italic" FontSize="20" FontWeight="Normal" Click ="ButtonSelectFile_Click" IsEnabled="True" Background="#FF591CC3"  >
+            <Button.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0.004"/>
+                    <GradientStop Color="#FF3C0505" Offset="0.291"/>
+                    <GradientStop Color="#FF7DEE1F" Offset="0.437"/>
+                    <GradientStop Color="#FFAB4C15" Offset="0.866"/>
+                    <GradientStop Color="#FF1C0202" Offset="0.295"/>
+                </LinearGradientBrush>
+            </Button.Foreground>
+            <Button.Effect>
+                <DropShadowEffect BlurRadius="30" Color="LightGray" ShadowDepth="0"  />
+            </Button.Effect>
+        </Button>
+        <TextBlock Text="Сериализовать в: " Margin="341,181,408,266"  />
+        <Button Content="XML" x:Name="Serialize_in_XML" HorizontalAlignment="Left" Height="50" Margin="160,240,0,0" VerticalAlignment="Top" Width="140" Click="Serialize_in_XML_Click" IsEnabled="True" Style="{DynamicResource MaterialDesignFlatMidBgButton}">
+            <Button.Effect>
+                <DropShadowEffect BlurRadius="17" Color="LightGray" ShadowDepth="0"  />
+            </Button.Effect>
+        </Button>
+        <Button x:Name="Serialize_in_JSON" Margin="361,240,0,0" Height="50" Width="140" Content="JSON" Click="Serialize_in_JSON_Click" IsEnabled="True" Style="{DynamicResource MaterialDesignFlatMidBgButton}" VerticalAlignment="Top" HorizontalAlignment="Left">
+            <Button.Effect>
+                <DropShadowEffect BlurRadius="17" Color="LightGray" ShadowDepth="0"  />
+            </Button.Effect>
+        </Button>
+        <Button x:Name="Serialize_in_Binary" Margin="560,240,0,0" Height="50" Width="140" Content="Binary" IsEnabled="True" Click="Serialize_in_Binary_Click" Style="{DynamicResource MaterialDesignFlatMidBgButton}" VerticalAlignment="Top" HorizontalAlignment="Left" >
+            <Button.Effect>
+                <DropShadowEffect BlurRadius="17" Color="LightGray" ShadowDepth="0"  />
+            </Button.Effect>
+        </Button>
+
+
+
+
+
+
+
+
+    </Grid>
+</Window>
